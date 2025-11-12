@@ -8,18 +8,18 @@
 
 <h1 align="center">Rukasudo</h1>
 
-<p align="center">
-Futuramente analista e desenvolvedor de sistemas.<br>
-Iniciando minha jornada na área de programação com a linguagem Python, focado em automação, inteligência artificial e outras tecnologias associadas ao ecossistema Python.<br>
-Tenho grande interesse em expandir meus conhecimentos e, futuramente, estudar linguagens e ferramentas mais complexas, sempre buscando evoluir e aplicar a tecnologia de forma prática e inteligente.
+<p align="center" style="max-width: 800px; margin: auto;">
+  Futuramente analista e desenvolvedor de sistemas.<br><br>
+  Iniciando minha jornada na área de programação com a linguagem Python, focado em automação, inteligência artificial e outras tecnologias associadas ao ecossistema Python.<br><br>
+  Tenho grande interesse em expandir meus conhecimentos e, futuramente, estudar linguagens e ferramentas mais complexas, sempre buscando evoluir e aplicar a tecnologia de forma prática e inteligente.
 </p>
 
 <p align="center">
   <a href="mailto:lucas.ssx2014@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail" />
+    <img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=000" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/lucassilva369/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=000" alt="LinkedIn" />
   </a>
 </p>
 
