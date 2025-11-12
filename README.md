@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&pause=1000&width=435&lines=%3E%E3%80%8C+(%F0%9F%8C%90)+Bem+vindo+ao+meu+perfil+!+%E3%80%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&pause=1000&center=true&vCenter=true&width=435&lines=%3E%E3%80%8C+(%F0%9F%8C%90)+Bem+vindo+ao+meu+perfil+!+%E3%80%8D" alt="Typing SVG" /></a>
 
 <h1 align="center">Rukasudo</h1>
 
