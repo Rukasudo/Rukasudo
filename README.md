@@ -8,7 +8,7 @@
 
 <h1 align="center">Lucas Silva</h1>
 
-<p align="center" style="max-width: 800px; margin: auto;">
+<p align="center" style="max-width: 800px; margin: auto; text-align: center;">
   Futuramente analista e desenvolvedor de sistemas. Iniciando minha jornada na área de programação com a linguagem Python, focado em automação, inteligência artificial e outras tecnologias associadas ao ecossistema Python. Tenho grande interesse em expandir meus conhecimentos e, futuramente, estudar linguagens e ferramentas mais complexas, sempre buscando evoluir e aplicar a tecnologia de forma prática e inteligente.
 </p>
 
@@ -39,11 +39,13 @@
 
 ###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ###
 
