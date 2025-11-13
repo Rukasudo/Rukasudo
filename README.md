@@ -12,11 +12,12 @@
   Futuramente analista e desenvolvedor de sistemas. Iniciando minha jornada na área de programação com a linguagem Python, focado em automação, inteligência artificial e outras tecnologias associadas ao ecossistema Python. Tenho grande interesse em expandir meus conhecimentos e, futuramente, estudar linguagens e ferramentas mais complexas, sempre buscando evoluir e aplicar a tecnologia de forma prática e inteligente.
 </p>
 
+<!-- Botões de contato sem underline -->
 <p align="center">
-  <a href="mailto:lucas.ssx2014@hotmail.com">
+  <a href="mailto:lucas.ssx2014@hotmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=000" alt="E-mail" />
   </a>
-  <a href="https://www.linkedin.com/in/lucassilva369/">
+  <a href="https://www.linkedin.com/in/lucassilva369/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=000" alt="LinkedIn" />
   </a>
 </p>
