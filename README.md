@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&pause=1000&center=true&vCenter=true&width=435&lines=%3E%E3%80%8C+(%F0%9F%8C%90)+Bem+vindo+ao+meu+perfil+!+%E3%80%8D" alt="Typing SVG" />
 </a>
 
-<h1 align="center">Rukasudo</h1>
+<h1 align="center">Lucas Silva</h1>
 
 <p align="center" style="max-width: 800px; margin: auto;">
   Futuramente analista e desenvolvedor de sistemas. Iniciando minha jornada na área de programação com a linguagem Python, focado em automação, inteligência artificial e outras tecnologias associadas ao ecossistema Python. Tenho grande interesse em expandir meus conhecimentos e, futuramente, estudar linguagens e ferramentas mais complexas, sempre buscando evoluir e aplicar a tecnologia de forma prática e inteligente.
